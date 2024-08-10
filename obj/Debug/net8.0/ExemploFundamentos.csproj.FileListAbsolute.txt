@@ -1,0 +1,14 @@
+/home/tonii/Documentos/programação/DIOFullStack/ExemploFundamentos/bin/Debug/net8.0/ExemploFundamentos
+/home/tonii/Documentos/programação/DIOFullStack/ExemploFundamentos/bin/Debug/net8.0/ExemploFundamentos.deps.json
+/home/tonii/Documentos/programação/DIOFullStack/ExemploFundamentos/bin/Debug/net8.0/ExemploFundamentos.runtimeconfig.json
+/home/tonii/Documentos/programação/DIOFullStack/ExemploFundamentos/bin/Debug/net8.0/ExemploFundamentos.dll
+/home/tonii/Documentos/programação/DIOFullStack/ExemploFundamentos/bin/Debug/net8.0/ExemploFundamentos.pdb
+/home/tonii/Documentos/programação/DIOFullStack/ExemploFundamentos/obj/Debug/net8.0/ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonii/Documentos/programação/DIOFullStack/ExemploFundamentos/obj/Debug/net8.0/ExemploFundamentos.AssemblyInfoInputs.cache
+/home/tonii/Documentos/programação/DIOFullStack/ExemploFundamentos/obj/Debug/net8.0/ExemploFundamentos.AssemblyInfo.cs
+/home/tonii/Documentos/programação/DIOFullStack/ExemploFundamentos/obj/Debug/net8.0/ExemploFundamentos.csproj.CoreCompileInputs.cache
+/home/tonii/Documentos/programação/DIOFullStack/ExemploFundamentos/obj/Debug/net8.0/ExemploFundamentos.dll
+/home/tonii/Documentos/programação/DIOFullStack/ExemploFundamentos/obj/Debug/net8.0/refint/ExemploFundamentos.dll
+/home/tonii/Documentos/programação/DIOFullStack/ExemploFundamentos/obj/Debug/net8.0/ExemploFundamentos.pdb
+/home/tonii/Documentos/programação/DIOFullStack/ExemploFundamentos/obj/Debug/net8.0/ExemploFundamentos.genruntimeconfig.cache
+/home/tonii/Documentos/programação/DIOFullStack/ExemploFundamentos/obj/Debug/net8.0/ref/ExemploFundamentos.dll
