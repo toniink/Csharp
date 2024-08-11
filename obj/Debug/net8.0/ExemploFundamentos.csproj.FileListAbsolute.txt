@@ -12,3 +12,4 @@
 /home/tonii/Documentos/programação/DIOFullStack/ExemploFundamentos/obj/Debug/net8.0/ExemploFundamentos.pdb
 /home/tonii/Documentos/programação/DIOFullStack/ExemploFundamentos/obj/Debug/net8.0/ExemploFundamentos.genruntimeconfig.cache
 /home/tonii/Documentos/programação/DIOFullStack/ExemploFundamentos/obj/Debug/net8.0/ref/ExemploFundamentos.dll
+/home/tonii/Documentos/programação/DIOFullStack/ExemploFundamentos/obj/Debug/net8.0/ExemploFundamentos.sourcelink.json
